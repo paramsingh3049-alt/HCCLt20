@@ -1,4 +1,4 @@
-// MCL T20 - Global JavaScript
+// HCCL T20 - Global JavaScript
 
 const teams = [
   { name: "Team A", state: "", emoji: "", color: "#FF6B00" },
@@ -7,26 +7,24 @@ const teams = [
   { name: "Team D", state: "", emoji: "", color: "#06D6A0" },
   { name: "Team E", state: "", emoji: "", color: "#F72585" },
   { name: "Team F", state: "", emoji: "", color: "#4361EE" },
-  { name: "Team G", state: "", emoji: "", color: "#FB8500" },
-  { name: "Team H", state: "", emoji: "", color: "#7B2D8B" },
 ];
 
 const matches = [
-  { team1: 0, team2: 1, date: "Sep 6, 2026", time: "7:30 PM", venue: "Punjab Stadium", status: "upcoming" },
+  { team1: 0, team2: 1, date: "Sep 6, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
   { team1: 2, team2: 3, date: "Sep 7, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 4, team2: 5, date: "Sep 8, 2026", time: "7:30 PM", venue: "Karnataka Ground", status: "upcoming" },
-  { team1: 6, team2: 7, date: "Sep 9, 2026", time: "3:00 PM", venue: "Bihar Stadium", status: "upcoming" },
-  { team1: 0, team2: 2, date: "Sep 10, 2026", time: "7:30 PM", venue: "Punjab Stadium", status: "upcoming" },
-  { team1: 1, team2: 2, date: "Sep 11, 2026", time: "3:00 PM", venue: "Haryana Ground", status: "upcoming" },
-  { team1: 3, team2: 6, date: "Sep 12, 2026", time: "7:30 PM", venue: "Jharkhand Arena", status: "upcoming" },
-  { team1: 5, team2: 7, date: "Sep 13, 2026", time: "3:00 PM", venue: "Tamil Nadu Stadium", status: "upcoming" },
-  { team1: 0, team2: 3, date: "Sep 14, 2026", time: "7:30 PM", venue: "Punjab Stadium", status: "upcoming" },
-  { team1: 1, team2: 3, date: "Sep 15, 2026", time: "3:00 PM", venue: "Haryana Ground", status: "upcoming" },
-  { team1: 2, team2: 6, date: "Sep 16, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 5, team2: 4, date: "Sep 17, 2026", time: "3:00 PM", venue: "Tamil Nadu Stadium", status: "upcoming" },
-  { team1: 7, team2: 0, date: "Sep 18, 2026", time: "7:30 PM", venue: "Hyderabad Ground", status: "upcoming" },
-  { team1: 1, team2: 5, date: "Sep 19, 2026", time: "3:00 PM", venue: "Haryana Ground", status: "upcoming" },
-  { team1: 3, team2: 7, date: "Sep 20, 2026", time: "7:30 PM", venue: "Jharkhand Arena", status: "upcoming" },
+  { team1: 4, team2: 5, date: "Sep 8, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 0, team2: 2, date: "Sep 9, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 1, team2: 4, date: "Sep 10, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 3, team2: 5, date: "Sep 11, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 0, team2: 3, date: "Sep 12, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 1, team2: 2, date: "Sep 13, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 4, team2: 3, date: "Sep 14, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 5, team2: 0, date: "Sep 15, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 1, team2: 5, date: "Sep 16, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 2, team2: 4, date: "Sep 17, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 0, team2: 4, date: "Sep 18, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 1, team2: 3, date: "Sep 19, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 2, team2: 5, date: "Sep 20, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
 ];
 
 // ===== NAVBAR SCROLL EFFECT =====
