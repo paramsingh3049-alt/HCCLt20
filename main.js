@@ -10,21 +10,21 @@ const teams = [
 ];
 
 const matches = [
-  { team1: 0, team2: 1, date: "Sep 6, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 2, team2: 3, date: "Sep 7, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 4, team2: 5, date: "Sep 8, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 0, team2: 2, date: "Sep 9, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 1, team2: 4, date: "Sep 10, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 3, team2: 5, date: "Sep 11, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 0, team2: 3, date: "Sep 12, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 1, team2: 2, date: "Sep 13, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 4, team2: 3, date: "Sep 14, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 5, team2: 0, date: "Sep 15, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 1, team2: 5, date: "Sep 16, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 2, team2: 4, date: "Sep 17, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 0, team2: 4, date: "Sep 18, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 1, team2: 3, date: "Sep 19, 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
-  { team1: 2, team2: 5, date: "Sep 20, 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 0, team2: 1, date: "Nov 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 2, team2: 3, date: "Nov 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 4, team2: 5, date: "Nov 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 0, team2: 2, date: "Nov 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 1, team2: 4, date: "Nov 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 3, team2: 5, date: "Nov 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 0, team2: 3, date: "Nov 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 1, team2: 2, date: "Nov 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 4, team2: 3, date: "Nov 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 5, team2: 0, date: "Nov 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 1, team2: 5, date: "Nov 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 2, team2: 4, date: "Nov 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 0, team2: 4, date: "Nov 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 1, team2: 3, date: "Nov 2026", time: "3:00 PM", venue: "Delhi Arena", status: "upcoming" },
+  { team1: 2, team2: 5, date: "Nov 2026", time: "7:30 PM", venue: "Delhi Arena", status: "upcoming" },
 ];
 
 // ===== NAVBAR SCROLL EFFECT =====
